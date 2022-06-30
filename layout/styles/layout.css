@@ -178,7 +178,7 @@ nav ul, nav ol{margin:0; padding:0; list-style:none;}
 /* Breadcrumb */
 #breadcrumb{padding:10px 0 30px;}
 #breadcrumb ul{margin:0; padding:0; list-style:none; text-transform:uppercase;}
-#breadcrumb li{display:inline-block; margin:0 6px 0 0; padding:0;}
+#breadcrumb li{display:inline-block; margin:0 6px 0 35px; padding:0;}
 #breadcrumb li a{display:block; position:relative; margin:0; padding:0 12px 0 0; font-size:16px;}
 #breadcrumb li:last-child a{margin:0; padding:0;}
 #breadcrumb li:last-child a::after{display:none;}
