@@ -179,7 +179,7 @@ nav ul, nav ol{margin:0; padding:0; list-style:none;}
 #breadcrumb{padding:10px 0 30px;}
 #breadcrumb ul{margin:0; padding:0; list-style:none; text-transform:uppercase;}
 #breadcrumb li{display:inline-block; margin:0 6px 0 0; padding:0;}
-#breadcrumb li a{display:block; position:relative; margin:0; padding:0 12px 0 0; font-size:16px;} 
+#breadcrumb li a{display:block; position:relative; margin:0; padding:0 12px 0 0; font-size:16px;}
 #breadcrumb li:last-child a{margin:0; padding:0;}
 #breadcrumb li:last-child a::after{display:none;}
 #breadcrumb .heading{margin:0; font-size:1.6rem;}
@@ -354,7 +354,7 @@ table a, #comments a{background-color:inherit;}
 /* Max Wrapper Width - Laptop, Desktop etc.
 --------------------------------------------------------------------------------------------------------------- */
 @media screen and (min-width:978px){
-	.hoc{max-width:978px;}
+	.hoc{max-width:90%}
 }
 
 
